@@ -48,4 +48,4 @@ app.*.map.json
 *.env
 
 ios/Runner/GoogleService-Info.plist
-android/app/google-services.json3
+android/app/google-services.json
