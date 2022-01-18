@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1049903492561",
+    "project_id": "ginstagram-d0e8e",
+    "storage_bucket": "ginstagram-d0e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049903492561:android:465623da9c4b52f140c4f0",
+        "android_client_info": {
+          "package_name": "com.example.ginstagram_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049903492561-qaenar8gmo4tkj9f57n4auguomfeqrbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLfe7_RnuYYM00uJUbnNllXTACLn8efY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049903492561-qaenar8gmo4tkj9f57n4auguomfeqrbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049903492561-r9fnv6rg6350rgkhetm8n2mter8nfs21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ginstagramFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
