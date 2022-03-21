@@ -6,6 +6,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ginstagram_flutter/utils/colors.dart';
 
 import 'package:ginstagram_flutter/screens/login_screen.dart';
+import 'package:ginstagram_flutter/screens/signup_screen.dart';
 
 import 'package:ginstagram_flutter/responsive/mobile_screen_layout.dart';
 import 'package:ginstagram_flutter/responsive/responsive_layout_screen.dart';
@@ -46,7 +47,7 @@ class MyApp extends StatelessWidget {
       //   webScreenLayout: WebScreenLayout(), 
       //   mobileScreenLayout: MobileScreenLayout()
       // )
-      home: LoginScreen(),
+      home: SignupScreen(),
     );
   }
 }
